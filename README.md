@@ -1,6 +1,13 @@
 # github_tutorial
 通用版github教學 for喵ㄉgithub課
 
+## 前言
+### 何乃github?
+線上軟體原始碼代管服務平台，aka：工程師的臉書、開源軟體聚集地、~~炫耀程式平台~~。
+### 跟gitㄉ關係
+github透過 Git 進行版本控制
+
+
 ## *tasks*
 1. 創立github帳號
 2. 建立你的第一個repository！(用本名開repo)
